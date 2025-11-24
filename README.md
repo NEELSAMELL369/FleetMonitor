@@ -1,4 +1,5 @@
-<center><h1 style="font-size: 60px; font-weight: bold;">🚗 FleetMonitor</h1><center/>
+## <h1 align="center" style="font-size: 60px; font-weight: bold;">🚗 FleetMonitor</h1>
+
 
 <p align="center">
   FleetMonitor is a lightweight vehicle fleet management dashboard that allows users to monitor vehicle status, track activity, view telemetry, and manage fleet data with filtering, sorting, search, and CSV export support.
@@ -128,4 +129,15 @@ npm install react@19.2.0 react-dom@19.2.0 react-router-dom@7.9.6 @reduxjs/toolki
 npm run dev
 
 ```
-## Open http://localhost:5173 in your browser to access the dashboard.
+# Open http://localhost:5173 in your browser to access the dashboard.
+
+## 🖼 Screenshots
+
+### Dashboard
+![Dashboard](frontend/src/assets/dashboard.png)
+![Dashboard](frontend/src/assets/dashboard2.png)
+### Vehicle Details
+![Vehicle Details](frontend/src/assets/vehicle-details.png)
+
+### Edit Vehicle
+![Edit Vehicle](frontend/src/assets/edit-vehicle.png)
