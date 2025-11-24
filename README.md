@@ -114,15 +114,18 @@ frontend/
 
 1️⃣ **Clone the repository**
 
-```bash
+```
 git clone https://github.com/NEELSAMELL369/FleetMonitor.git
 cd frontend
-
+```
 2️⃣ Install dependencies
-
+```
 npm install react@19.2.0 react-dom@19.2.0 react-router-dom@7.9.6 @reduxjs/toolkit@2.11.0 react-redux@9.2.0 @tanstack/react-query@5.90.10 axios@1.13.2 react-hot-toast@2.6.0 react-icons@5.5.0 tailwindcss@4.1.17 @tailwindcss/vite@4.1.17
-
+```
 3️⃣ Run the application
+
+```
 npm run dev
 
 ```
+## Open http://localhost:5173 in your browser to access the dashboard.
