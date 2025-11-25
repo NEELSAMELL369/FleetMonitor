@@ -15,7 +15,6 @@ const App = () => (
     <QueryClientProvider client={queryClient}>
       {/* Toast messages appear at top-center */}
       <Toaster position="top-center" reverseOrder={false} />
-      
       <Router>
         <Routes>
           <Route path="/" element={<Dashboard />} />
