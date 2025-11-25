@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://expense-tracker-mern-jet.vercel.app/">
+  <a href="https://fleet-monitor-one.vercel.app/">
     <img src="https://img.shields.io/badge/Frontend-Live%20Demo-blue?style=for-the-badge&logo=react" alt="Frontend Live Demo">
   </a>
 </p>
